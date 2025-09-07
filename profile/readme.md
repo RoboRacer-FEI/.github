@@ -1,0 +1,3 @@
+- [f1tenth.org](https://f1tenth.org/index.html)
+- [robocarrace](https://www.robocarrace.com.br/)
+- [vídeos detalhados da construção do carro](https://www.youtube.com/playlist?list=PLqjsxWOL0TM39jP3NmErrgpj0gdBl9_DG)
